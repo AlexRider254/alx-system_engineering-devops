@@ -3,3 +3,4 @@ script that displays a confused smiley
 Display the content
 Display the content of /etc/passwd
 Display the last 10 lines
+Display the first 10 lines
